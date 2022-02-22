@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Agreement in doctrine among the dissenting ministers in London, subscribed Decemb. 16. 1692</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26554</idno>
+            <idno type="STC">Wing A771</idno>
+            <idno type="STC">ESTC R6041</idno>
+            <idno type="EEBO-CITATION">12192490</idno>
+            <idno type="OCLC">ocm 12192490</idno>
+            <idno type="VID">55897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 883:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Agreement in doctrine among the dissenting ministers in London, subscribed Decemb. 16. 1692</title>
+               </titleStmt>
+               <extent>[2], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Cockerill ... and John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>"Differences ... occasioned by a book written by Mr. Williams intituled Gospel truths stated and vindicated, and books written by Mr. Chauncey in opposition."</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, Daniel, 1643?-1716. --  Gospel-truth stated and vindicated.</term>
+               <term>Chauncy, Isaac, 1632-1712.</term>
+               <term>Grace (Theology)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55897:1"/>
+            <pb facs="tcp:55897:1"/>
+            <p>THE Agreement IN DOCTRINE Among the <hi>Diſſenting Miniſters</hi> IN LONDON.</p>
+            <p>Subſcribed <hi>Decemb.</hi> 16. 1692.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Cockerill</hi> at the <hi>Three Leggs</hi> over againſt <hi>Stocks-Market;</hi> And <hi>John Dunton</hi> at the <hi>Raven</hi> in the <hi>Poultrey.</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55897:2"/>
+            <pb n="1" facs="tcp:55897:2"/>
+            <head>Heads of Agreement BETWEEN Mr. Chauncy, &amp;c. AND Mr. Williams, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas ſome <hi>Differences</hi> have of late ariſen, occaſioned by a <hi>Book</hi> written by Mr. <hi>Williams</hi> Intituled <hi>Goſpel</hi>
+               <note n="*" place="margin">Wherein Doctor <hi>Criſps</hi> Works re<g ref="char:EOLhyphen"/>printed are conſidered.</note> 
+               <hi>Truths ſtated,</hi> and <hi>vindicated,</hi> and by certain <hi>Books</hi> written by Mr. <hi>Chauncy,</hi> in oppoſition thereto; and by an Approbation of divers of us prefixed to Mr. <hi>Williams</hi> his Book, and by a Paper ſubſcribed by Mr. <hi>Griffith,</hi>
+               <pb n="2" facs="tcp:55897:3"/>Mr. <hi>Cole,</hi> Mr. <hi>Mather,</hi> Mr. <hi>Trayle.</hi> and Mr. <hi>Ri. Taylor,</hi> in conjunction with Mr. <hi>Chauncy,</hi> ex<g ref="char:EOLhyphen"/>preſſing their Diſſatisfaction therein.</p>
+            <p n="1">1. It is hereby reſpectively declared, That neither they, who ſubſcribed that Approba<g ref="char:EOLhyphen"/>tion prefixed to Mr. <hi>Williams</hi> his Book, did therein more than ſignifie (as their own words expreſs) <hi>that they judged he had in all that was material, fully, and rightly ſtated the Truths and Errors therein mentioned as ſuch,</hi> without delivering their ſenſe about the <hi>Preface, Ex<g ref="char:EOLhyphen"/>plications,</hi> or <hi>Proofs</hi> thereto belonging, which Declaration is not to be eſteemed as a Diſap<g ref="char:EOLhyphen"/>proval of the ſaid Preface, Explications, or Proofs: Nor they, who with Mr. <hi>Chauncy,</hi> ſubſcribed the aboveſaid Paper, did therein offer any particular Exceptions againſt the ſaid ſtate of Truths, and Errors, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et is not to be underſtood as an Approval of that State of Truth, and Errors.</p>
+            <p n="2">2. That in order to the more effectual Com<g ref="char:EOLhyphen"/>poſing of matters in Controverſie, we all of us, having referr'd our ſelves to the <hi>Holy Scrip<g ref="char:EOLhyphen"/>tures,</hi> and the <hi>Doctrinal Articles of the Church of</hi> England, <hi>the</hi> Weſtminſter, <hi>and</hi> Savoy <hi>Con<g ref="char:EOLhyphen"/>feſſions, the Larger, and Shorter Catechiſms,</hi> do ſubſcribe theſe following <hi>Propoſitions,</hi> as what
+<pb n="3" facs="tcp:55897:3"/>do moſt fully provide againſt the <hi>Arminian, Antinomian, Socinian,</hi> and <hi>Popiſh</hi> Errors; and ſhall always be content, that any Sermons or Books of ours be interpreted by the ſaid Ar<g ref="char:EOLhyphen"/>ticles, and Confeſſions; deſiring all others, if they meet with any expreſſions from any of us, that are to them of Doubtful ſignification, they would judge of them, and interpret them by the Holy Scriptures, and ſaid Articles and Con<g ref="char:EOLhyphen"/>feſſions.</p>
+            <div n="1" type="doctrine">
+               <head>
+                  <hi>1.</hi> Of the Fall of Man, of Sin, and of the Puniſhment thereof.</head>
+               <p n="1">1. OUR Firſt Parents being ſeduced by the Subtilty and Temptation of Satan, ſinn'd in eating the Forbidden Fruit.<note n="(a)" place="margin">Gen. 3.13. 2 Cor. 11.3.</note> This their Sin God was pleaſed according to his Wiſe and Holy Counſel to permit, having pur<g ref="char:EOLhyphen"/>poſed to order it to his own Glory.<note n="(b)" place="margin">Rom. 11.32.</note>
+               </p>
+               <p n="2">2. By this Sin they fell from their <hi>Original Righteouſneſs,</hi> and Communion with God,<note n="(c)" place="margin">Gen. 3.6, 7, 8. Eccleſ. 7.29.</note> and ſo became Dead in Sin,<note n="(d)" place="margin">Gen. 2.17. Epheſ. 2.1.</note> and wholly de<g ref="char:EOLhyphen"/>filed in all the Faculties and Parts of the Soul and Body.<note n="(e)" place="margin">Tit. 1.15. Gen. 6.5. Jer. 17.9. Rom. 3.10, 11, 12, 13, 14, 15, 16, 17, 18.</note>
+               </p>
+               <p n="3">3. They being the Root of all Mankind the
+<pb n="4" facs="tcp:55897:4"/>Guilt of this Sin was imputed,<note n="(f)" place="margin">Gen. 1.27, 28. Gen. 2.16, 17. Acts 17.26. Rom. 5.12, 15, 16, 17, 18, 19. 1 Cor. 15.21, 22, 45, 49.</note> and the ſame Death in Sin and Corrupted Nature conveyed to all their Poſterity deſcending from them by ordinary Generation.<note n="(g)" place="margin">Pſal. 51.5. Gen. 5.3. Job 14.4. Job 15.14.</note>
+               </p>
+               <p n="4">4. Every Sin, both <hi>Original,</hi> and <hi>Actual,</hi> be<g ref="char:EOLhyphen"/>ing a Tranſgreſſion of the Righteous Law of God, and contrary thereunto<note n="(h)" place="margin">1 Joh. 3, 4.</note> doth in its own Nature bring Guilt upon the Sinner,<note n="(i)" place="margin">Rom. 2.15. Rom. 3.9.19.</note> whereby he is bound over to the Wrath of God,<note n="(k)" place="margin">Eph. 2.3.</note> and Curſe of the Law,<note n="(l)" place="margin">Gal. 3.10.</note> and ſo made ſubject to Death,<note n="(m)" place="margin">Rom. 6.23.</note> with all Miſeries, Spiri<g ref="char:EOLhyphen"/>tual,<note n="(n)" place="margin">Eph. 4.18.</note> Temporal,<note n="(o)" place="margin">Rom. 8.20. Lam. 3.39.</note> and Eternal.<note n="(p)" place="margin">Matth. 25.41. 2 Theſ. 1.9.</note> 
+                  <hi>Aſſemb. Confeſſion, Chap.</hi> 6. <hi>Sect.</hi> 1, 2, 3, 6.</p>
+            </div>
+            <div n="2" type="doctrine">
+               <head>
+                  <hi>II.</hi> Of God's Covenant with Man.</head>
+               <p n="1">1. THE Firſt Covenant made with Man, was a Covenant of Works,<note n="(a)" place="margin">Gal. 3.12.</note> where<g ref="char:EOLhyphen"/>in Life was promiſed to <hi>Adam,</hi> and in him to his Poſterity,<note n="(b)" place="margin">Rom. 10.5. Rom. 5. from 12. to 20.</note> upon condition of Perfect, and Perſonal Obedience.<note n="(c)" place="margin">Geo. 2.17. Gal. 3.10.</note>
+               </p>
+               <p n="2">2. Man by his Fall, having made himſelf incapable of Life by that Covenant, the Lord was pleas'd to make a ſecond,<note n="(d)" place="margin">Gal. 3.21. Rom. 8.3. Rom. 3.20, 21. Gen. 3.15. Iſa. 42.6.</note> commonly call'd the Covenant of Grace, wherein he free<g ref="char:EOLhyphen"/>ly offereth unto Sinners, Life and Salvation by
+<pb n="5" facs="tcp:55897:4"/>Jeſus Chriſt, requiring of them Faith in Him, that they may be ſaved,<note n="(e)" place="margin">Mark 16.15, 16. John 3.16. Rom. 10.69 Gal. 3.11.</note> and promiſing to give unto all thoſe that are Ordained unto Life his Holy Spirit, making them willing and able to believe.<note n="(f)" place="margin">Ezek. 36.26, 27 Joh. 6 44, 45.</note> 
+                  <hi>Chap.</hi> 7. <hi>Sect.</hi> 2, 3.</p>
+               <p n="3">3. This Covenant of Grace was made with Chriſt, as the Second <hi>Adam,</hi> and in Him with all the Elect as his Seed.<note n="(g)" place="margin">Gal. 3.16. Rom. 5.15. Iſa. 53.10, 11.</note> 
+                  <hi>Larger Catechiſm.</hi>
+               </p>
+               <p n="4">4. The Grace of God is manifeſted in the Second Covenant, in that he freely provideth and offereth to Sinners a Mediator,<note n="(h)" place="margin">Gen. 3.15. Iſa. 42.6. John 6.27.</note> and Life and Salvation by Him<note n="(i)" place="margin">1 John 5.11, 12.</note> and requiring Faith as the <hi>Condition</hi> to Intereſt them in Him,<note n="(k)" place="margin">Joh. 3, 16. Joh. 1.12.</note> promiſeth and giveth his Holy Spirit<note n="(l)" place="margin">Prov. 1.23.</note> to all his Elect, to work in them that Faith, with all other Saving Graces,<note n="(m)" place="margin">Gal. 5.22, 23.</note> and to en<g ref="char:EOLhyphen"/>able them unto all Holy Obedience,<note n="(n)" place="margin">Ezek. 36.37.</note> as the Evidence of the Truth of their Faith<note n="(o)" place="margin">Jam. 2.18, 22.</note> and Thankfulneſs to God,<note n="(p)" place="margin">1 Cor. 5.14, 15.</note> and as the way which he hath appointed them to Salvation,<note n="(q)" place="margin">Eph. 2.10.</note> 
+                  <hi>Larger Catechiſm.</hi>
+               </p>
+            </div>
+            <div n="3" type="doctrine">
+               <head>III. Of Chriſt the Mediator.</head>
+               <p n="1">1. IT pleaſed God in his Eternal Purpoſe to Chuſe and Ordain the Lord Jeſus, his only begotten Son, to be the Mediator be<g ref="char:EOLhyphen"/>tween
+<pb n="6" facs="tcp:55897:5"/>God and Man,<note n="(a)" place="margin">Iſa 42.2. 1 Pet. 1.19, 20. John 3.16. 1 Tim. 2 5.</note> the Prophet,<note n="(b)" place="margin">Act. 3.22</note> Prieſt,<note n="(c)" place="margin">Heb. 5 5 6.</note> and King,<note n="(d)" place="margin">Pſal. 2 6. Luke 1.33.</note> the Head and Sa<g ref="char:EOLhyphen"/>viour of the Church,<note n="(e)" place="margin">Eph. 5.23.</note> the Heir of all things,<note n="(f)" place="margin">Heb. 1.2.</note> and Judge of the World,<note n="(g)" place="margin">Acts 17.31.</note> unto whom he did from all Eternity give a People to be his Seed<note n="(h)" place="margin">Joh. 17.6. Pſal. 22.30. Iſa. 53.10.</note> and to be by Him in time Redeemed, Called, Juſtified, Sancti<g ref="char:EOLhyphen"/>fied and Glorified.<note n="(i)" place="margin">1 Tim. 2 6. Iſa. 55.4, 5. 1 Cor. 1.30.</note>
+               </p>
+               <p n="2">2. The Lord Jeſus by his Perfect Obedience and Sacrifice of Himſelf, which He through the Eternal Spirit once offered up unto God, hath fully ſatisfied the Juſtice of his Father,<note n="(k)" place="margin">Rom. 5.19. Heb. 9.14, 16. Heb. 10.14. Epheſ. 5.2. Rom. 3.25, 26.</note> and purchaſed not only Reconciliation, but an Everlaſting Inheritance in the Kingdom of Heaven, for all thoſe whom the Father hath given unto Him.<note n="(l)" place="margin">Dan. 9.24, 26. Col. 1.19, 20, Epheſ. 1.11, 14. John 17.2. Heb. 9.12, 15.</note>
+               </p>
+               <p n="3">3. To all thoſe for whom Chriſt hath pur<g ref="char:EOLhyphen"/>chaſed Redemption, he doth certainly and effe<g ref="char:EOLhyphen"/>ctually apply and communicate the ſame,<note n="(p)" place="margin">Joh. 6.37, 39. John 10.15, 16.</note> making Interceſſion for them,<note n="(q)" place="margin">1 John 2.1, 2. Rom. 8.84.</note> and Reveal<g ref="char:EOLhyphen"/>ing unto them in, and by the Word, the My<g ref="char:EOLhyphen"/>ſteries of Salvation,<note n="(r)" place="margin">John 15.13, 15. Eph. 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 8.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. John 17.6.</note> effectually perſwading them by his Spirit, to believe and obey, and go<g ref="char:EOLhyphen"/>verning their Hearts by his Word and Spirit,<note n="(s)" place="margin">John 14.6. Heb. 12.2. 2 Cor. 4.13. Rom. 8.9, 14. Rom. 15.18, 19. John 17.17.</note>
+                  <pb n="7" facs="tcp:55897:5"/>overcoming all their Enemies by his Almighty Power and Wiſdom, in ſuch manner and ways as are moſt conſonant to his wonderful and un<g ref="char:EOLhyphen"/>ſearchable Diſpenſations.<note n="(t)" place="margin">Pſa. 110.1. 1 Cor. 15.25, 26. Mal. 4.2, 3. Col. 2.15.</note> 
+                  <hi>Chap.</hi> 8. <hi>Sect.</hi> 1, 5, 8.</p>
+            </div>
+            <div n="4" type="doctrine">
+               <head>IV. Of Effectual Calling.</head>
+               <p n="1">1. THE Spirit applieth to us the Redemp<g ref="char:EOLhyphen"/>tion purchaſed by Chriſt, by working Faith in us, and thereby uniting us to Chriſt in our Effectual Calling. <hi>Shorter Catechiſm.</hi>
+               </p>
+               <p n="2">2. All thoſe whom God hath predeſtinated unto Life, and thoſe only he is pleaſed in his appointed and accepted Time, effectually to call<note n="(a)" place="margin">Rom. 8 30 Rom. 11.7. Eph. 1.10, 11.</note> by his Word and Spirit<note n="(b)" place="margin">2 Theſ. 2.13, 14. 2 Cor. 3.3.6.</note> out of the ſtate of Sin and Death, in which they are by Nature, to Grace and Salvation by Jeſus Chriſt;<note n="(c)" place="margin">Rom. 8.2. Epheſ. 2.1, 2, 3, 4, 5. 2 Tim. 1.9, 10.</note> enlightning their Minds, ſpiritu<g ref="char:EOLhyphen"/>ally and ſavingly to underſtand the things of God,<note n="(d)" place="margin">Act 26.18. 1 Cor. 2.10, 12. Eph. 1.17, 18.</note> taking away their heart of ſtone, and giving unto them an heart of fleſh,<note n="(e)" place="margin">Ezek. 36.26.</note> re<g ref="char:EOLhyphen"/>newing their Wills, and by his Almighty Power determining them to that which is good,<note n="(f)" place="margin">Ezek. 11.19. Phil. 2.13. Deut. 30.6. Ezek. 36.27.</note> and effectually drawing them to Jeſus Chriſt;<note n="(g)" place="margin">Epheſ. 1.19. John 6 44, 45.</note> yet ſo as they come moſt freely, being made willing by this Grace.<note n="(h)" place="margin">Cant. 1.4. Pſal. 110.3. John 6.37. Rom. 6.16, 17, 18.</note>
+               </p>
+               <p n="3">
+                  <pb n="8" facs="tcp:55897:6"/> 3. This Effectual Call is of God's free and ſpecial Grace alone, not from any thing at all foreſeen in Man,<note n="(i)" place="margin">2 Tim. 1.9. Tit. 3.4, 5. Eph. 2.4, 5, 8, 9. Rom. 9.11.</note> who is altogether paſ<g ref="char:EOLhyphen"/>ſive therein, until being quickned and renew<g ref="char:EOLhyphen"/>ed by the Holy Spirit,<note n="(k)" place="margin">1 Cor. 2.14. Rom. 8.7. Epheſ. 2.5.</note> he is thereby en<g ref="char:EOLhyphen"/>abled to anſwer this Call, and embrace the Grace offered and conveyed in it.<note n="(l)" place="margin">Joh. 6.37. Ezek. 36.27, John 5.25.</note> 
+                  <hi>Chap.</hi> 10. <hi>Sect.</hi> 1, 2.</p>
+            </div>
+            <div n="5" type="doctrine">
+               <head>V. Of Juſtification, Faith, and Repentance.</head>
+               <p n="1">1. THoſe whom God Effectually calleth, he alſo freely juſtifieth,<note n="(a)" place="margin">Rom. 8.30. Rom. 3.24.</note> not by infuſing Righteouſneſs into them, but by par<g ref="char:EOLhyphen"/>doning their ſins, and by accounting and ac<g ref="char:EOLhyphen"/>cepting their Perſons as Righteous; not for any thing wrought in them, but for Chriſt's ſake alone; nor by imputing Faith it ſelf the Act of Believing, or any other Evangeli<g ref="char:EOLhyphen"/>cal Obedience to them, as their Righteouſneſs; but by imputing the Obedience and Satisfa<g ref="char:EOLhyphen"/>ction of Chriſt unto them,<note n="(b)" place="margin">Rom. 4.5, 6, 7, 8. 2. Cor. 5.19, 21. Rom. 3.22, 24, 25, 27, 28. Tit. 3.5, 7. Epheſ. 1.7. Jer. 23.6. 1 Cor. 1.30, 31. Rom. 5.17, 18, 19.</note> they receiving and reſting on Him, and his Righteouſneſs by Faith, which Faith they have not of themſelves, it is the Gift of God.<note n="(c)" place="margin">Act. 10.44. Gal. 2.16. Phil. 3.9. Act. 13.38, 39. Eph. 2.7, 8.</note> 
+                  <hi>Chap.</hi> 11. <hi>Sect.</hi> 1.</p>
+               <p n="2">2. By this Faith a Chriſtian believeth to be true, whatſoever is Revealed in the Word, for
+<pb n="9" facs="tcp:55897:6"/>the Authority of God Himſelf, ſpeaking there<g ref="char:EOLhyphen"/>in,<note n="e" place="margin">Joh. 4.42. 1 Theſ. 2.13. 1 John 5.10. Acts 24 14.</note> and acteth differently upon that which each particular paſſage containeth, yield<g ref="char:EOLhyphen"/>ing Obedience to the Commands,<note n="f" place="margin">Rom. 16.26.</note> tremb<g ref="char:EOLhyphen"/>ling at the Threatnings,<note n="g" place="margin">Iſa. 66.2.</note> embracing the Promiſes of God for this Life and that which is to come.<note n="h" place="margin">Heb. 11.13 1 Tim. 4.8.</note> But the principal acts of Saving Faith are, accepting, receiving, and reſting up<g ref="char:EOLhyphen"/>on Chriſt alone for Juſtification, Sanctification, and Eternal Life by virtue of the Covenant of Grace.<note n="i" place="margin">Joh. 1.12. Acts 16.32. Gal. 2.20. Acts 15.11.</note> 
+                  <hi>Chap.</hi> 14. <hi>Sect.</hi> 2.</p>
+               <p n="3">3. Faith thus receiving and reſting on Chriſt and his Righteouſneſs, is the alone Inſtrument of Juſtification,<note n="k" place="margin">John 1.12. Rom. 3.3. to 28. Rom. 5.1.</note> yet it is not alone in the Perſon Juſtified, but is ever accompanied with all other Saving Graces, and is no dead Faith, but worketh by Love.<note n="*" place="margin">Jam. 2.17, 22, 26. Gal. 5.6.</note> 
+                  <hi>Chap.</hi> 11. <hi>Sect.</hi> 2.</p>
+               <p n="4">4. God did from all Eternity decree to Ju<g ref="char:EOLhyphen"/>ſtifie all the Elect,<note n="l" place="margin">Gal. 3.8. 1 Pet. 1.2, 19, 20. Rom. 8.30.</note> and Chriſt did in the Fulneſs of Time die for their Sins, and riſe again for their Juſtification;<note n="m" place="margin">Gal. 4.4. 1 Gal. 2.6. Rom. 4.25.</note> nevertheleſs they are not Juſtified until the Holy Spirit doth in due Time actually apply Chriſt unto them.<note n="n" place="margin">Col. 1.21, 22. Gal. 2.16. Acts 13.38, 39. Tit. 3.4, 5, 6, 7.</note> 
+                  <hi>Chap.</hi> 11. <hi>Sect.</hi> 4.</p>
+               <p n="5">5. That we may eſcape the Wrath and Curſe of God due to us by reaſon of the Tranſgreſ<g ref="char:EOLhyphen"/>ſion of the Law, he requireth of us Repentance
+<pb n="10" facs="tcp:55897:7"/>towards God, Faith towards our Lord Jeſus Chriſt,<note n="c" place="margin">Acts 20.21. Matth. 3.7, 8. Act. 16.30, 31 Joh. 3.16, 18.</note> and the diligent uſe of the Outward Means, whereby Chriſt communicateth to us the Benefits of his Mediation.<note n="d" place="margin">Prov. 2.1, 5. cap. 8.33, 35. Iſa. 55.3.</note> 
+                  <hi>Larger Cate<g ref="char:EOLhyphen"/>chiſm.</hi>
+               </p>
+               <p n="6">6. Repentance unto Life is an Evangelical Grace,<note n="a" place="margin">Ezek. 12.10. Acts 11.18.</note> the Doctrine whereof is to be Preach'd by every Miniſter of the Goſpel, as well as that of Faith in Chriſt.<note n="b" place="margin">Luk. 24.47. Mark 1.15. Acts 20.21.</note> 
+                  <hi>Chap.</hi> 15. <hi>Sect.</hi> 1. Al<g ref="char:EOLhyphen"/>tho' Repentance be not to be reſted in as any ſatisfaction for ſin, nor any cauſe of the par<g ref="char:EOLhyphen"/>don thereof,<note n="c" place="margin">Ezek. 36.31, 32. Ezek. 16.61, 62, 63.</note> which is the act of God's Free Grace in Chriſt;<note n="d" place="margin">Hoſ. 14.2, 4. Epheſ. 1.7.</note> yet it is of ſuch neceſſity to all ſinners, that none can expect pardon without it.<note n="e" place="margin">Luk. 13.3, 5. Act. 17.30, 31</note> 
+                  <hi>Chap</hi> 15. <hi>Sect.</hi> 3, 4. As there is no ſin ſo ſmall but it deſerves damnation;<note n="f" place="margin">Rom. 6.23. Rom. 5.12. Matth. 12.36.</note> ſo there is no ſin ſo great that it can bring dam<g ref="char:EOLhyphen"/>nation upon thoſe who truly repent.<note n="g" place="margin">Iſa. 55.7. Rom. 8.1. Iſa. 1.16, 18.</note>
+               </p>
+               <p n="7">7. God doth continue to forgive the ſins of thoſe that are juſtified;<note n="o" place="margin">Matth. 6.12. 1 Joh. 1.7, 9. 1 John 2.1, 2.</note> and although they can never fall from the ſtate of Juſtification;<note n="p" place="margin">Luke 22.32. 1 Joh. 10.28. Heb. 10.14.</note> yet they may by their ſins fall under God's fatherly diſpleaſure, and not have the light of his Countenance reſtored unto them till they humble themſelves, confeſs their ſins, beg par<g ref="char:EOLhyphen"/>don
+<pb n="11" facs="tcp:55897:7"/>and renew their Faith and Repentance<note n="q" place="margin">Pſal. 89.31, 32, 33. Pſal. 51.7, 8, 9, 10, 11, 12 Pſal. 32.5. Matth. 26.75. 1 Cor. 11.30, 32. Luk. 1.20.</note>. <hi>Chap.</hi> 11. <hi>Sect.</hi> 5.</p>
+            </div>
+            <div n="6" type="doctrine">
+               <head>VI. Of Good Works.</head>
+               <p n="1">1. MAN by his Fall into a ſtate of ſin hath wholly loſt all ability of will to any ſpiritual good accompanying Salva<g ref="char:EOLhyphen"/>tion,<note n="d" place="margin">Rom. 5.6. Rom. 8.7. John 15.5.</note> ſo as a natural man being altogether averſe from that good,<note n="e" place="margin">Rom. 3 10, 12.</note> and dead in ſin,<note n="f" place="margin">Eph. 2.1, 5. Col. 2.13.</note> is not able by his own ſtrength to convert him<g ref="char:EOLhyphen"/>ſelf, or prepare himſelf thereto<note n="g" place="margin">John 6.44, 65. Eph. 2.2, 3, 4, 5. 1 Cor. 2 14. Tit. 3.3, 4, 5.</note> 
+                  <hi>Ch.</hi> 9. <hi>Sect.</hi> 3.</p>
+               <p n="2">2. Works done by unregenerate men, altho' for the matter of them they may be things which God commands, and of good uſe both to themſelves and others;<note n="y" place="margin">2 King. 10.30, 31. 1 King. 21.27, 29. Phil. 1.15, 16, 18.</note> yet becauſe they proceed not from a heart purified by Faith,<note n="z" place="margin">Gen. 4, 5. Heb. 11.4, 6.</note> nor are done in a right manner according to the Word,<note n="a" place="margin">Cor. 13.3. Iſa. 1.12.</note> nor to a right end, the glory of God,<note n="b" place="margin">Mat. 6.2, 5, 16.</note> they are therefore ſinful, and cannot pleaſe God, or make a man meet to receive Grace from God;<note n="c" place="margin">Hag. 2.14. Tit. 1.15. Amos 5.21, 22. Hoſ. 1.4. Rom. 9.16. Tit. 3.5.</note> yet their neglect of them is more ſinful and diſpleaſing unto God.<note n="d" place="bottom">Pſal. 14.4. Pſal. 36.3. Job 21.14, 15. Matth. 25.41, 42, 43, 44, 45. Matth. 23.23.</note> 
+                  <hi>Ch.</hi> 16. <hi>Sect.</hi> 7.</p>
+               <p n="3">3. Good works are only ſuch as God hath commanded in his holy Word,<note n="a" place="margin">Mich. 6.8. Rom. 12.2. Heb. 13.21.</note> and not ſuch
+<pb n="12" facs="tcp:55897:8"/>as without the warrant thereof are deviſed by men out of blind Zeal, or upon any pretence of good intention.<note n="b" place="margin">Matth. 15.9 Iſa. 29.13. 1 Pet. 1.18. Rom. 10.2. John 16.2. 1 Sam. 15.21, 22, 23.</note> 
+                  <hi>Ch.</hi> 16. <hi>Sect.</hi> 1.</p>
+               <p n="4">4. Theſe good works done in obedience to God's Commandments, are the fruits and evi<g ref="char:EOLhyphen"/>dences of a true and lively Faith.<note n="c" place="margin">Jam. 2.18, 22.</note> and by them Believers manifeſt their thankfulneſs,<note n="d" place="margin">Pſa 116.12, 13. 1 Pet. 2 9.</note> ſtrengthen their aſſurance,<note n="e" place="margin">1 Joh. 2.3, 5. 1 Pet. 1.5, 6, 7, 8, 9, 10.</note> edifie their Bre<g ref="char:EOLhyphen"/>thren,<note n="f" place="margin">2 Cor. 9.2. Matth. 5.16.</note> adorn the Profeſſion of the Goſpel,<note n="g" place="margin">Tit. 2 5, 9, 10, 11, 12. 1 Tim. 6.1.</note> ſtop the mouths of Adverſaries,<note n="h" place="margin">1 Pet. 2.15.</note> and glorifie God,<note n="i" place="margin">1 Pet. 2.12. Phil. 1.11. John 15.8.</note> whoſe workmanſhip they are, created in Chriſt Jeſus thereunto;<note n="k" place="margin">Eph. 2.10.</note> that having their fruit unto holineſs, they may have the end everlaſting life.<note n="l" place="margin">Rom. 6.22.</note> 
+                  <hi>Ch.</hi> 16. <hi>Sect.</hi> 2.</p>
+               <p n="5">5. The Perſons of Believers being accepted through Chriſt, their good works alſo are ac<g ref="char:EOLhyphen"/>cepted in him;<note n="u" place="margin">Eph. 1.16. 1 Pet. 2.5. Exod. 28.38. Gen. 4.4. Heb. 11.4.</note> not as though they were in this life wholly unblameable and unreprovable in God's ſight;<note n="w" place="margin">Job 9.20. Pſal. 143.2.</note> but that he looking, upon them in his Son, is pleaſed to accept, and re<g ref="char:EOLhyphen"/>ward that which is ſincere, tho' accompanied with many weakneſſes and imperfections.<note n="x" place="margin">Heb. 13.20, 21. 2 Cor. 8.12. Heb. 6.10. Matth. 25 21, 23.</note> 
+                  <hi>Ch.</hi> 16. <hi>Sect.</hi> 6.</p>
+            </div>
+            <div n="7" type="doctrine">
+               <pb n="13" facs="tcp:55897:8"/>
+               <head>VII. Of the Perſeverance of Saints.</head>
+               <p n="1">1. THey whom God hath accepted in the Beloved, effectually called, and ſan<g ref="char:EOLhyphen"/>ctified by his Holy Spirit, can neither totally, nor finally fall away from the ſtate of Grace; but ſhall certainly perſevere to the end, and be eternally ſaved.<note n="a" place="margin">Phil. 1.6. 2 Pet. 1.10. Joh. 10.28.29 1 John 3.9. 1 Pet. 1.5, 9.</note>
+               </p>
+               <p n="2">2. This Perſeverance of the Saints, depends not on their own Free will, but upon the Im<g ref="char:EOLhyphen"/>mutability of the Decree of Election, flowing from the free and unchangeable Love of God the Father;<note n="b" place="margin">2 Tim. 218, 19. Jer. 31.3.</note> upon the Efficacy of the Merit and Interceſſion of Jeſus Chriſt,<note n="c" place="margin">Heb. 10 10, 14. Heb. 13.20, 21. Heb. 9.12, 13, 14, 15. Rom. 8.33, 34, 35, 36, 37, 38, 39. John 17.11, 24. Luke 22.32. Heb. 7.25.</note> the abiding of the Spirit, and of the Seed of God within them;<note n="d" place="margin">Joh. 14 16, 17. 1 Joh. 2.27. 1 John 3.9.</note> and the Nature of the Covenant of Grace;<note n="e" place="margin">Jer. 32.40.</note> from all which ariſeth alſo the cer<g ref="char:EOLhyphen"/>tainty and infallibility thereof.<note n="f" place="margin">Joh. 10 28. 2 Theſ. 3.3. 1 John 2.19.</note>
+               </p>
+               <p n="3">3 Nevertheleſs, they may, through the Temptations of Satan and the World, the pre<g ref="char:EOLhyphen"/>valency of Corruption remaining in them, and the neglect of the means of their Preſervation, fall into grievous Sins;<note n="g" place="margin">Mat. 26.70.72, 74.</note> and for a time con<g ref="char:EOLhyphen"/>tinue therein;<note n="h" place="margin">Pſa. 51. title, and v. 14.</note> whereby they incur God's Diſpleaſure,<note n="i" place="margin">Iſa. 64.5, 7, 9, 2 Sam. 11.27.</note> and grieve the Holy Spirit;<note n="k" place="margin">Eph. 4.30.</note> come to be deprived of ſome meaſure of their
+<pb n="14" facs="tcp:55897:9"/>Graces and Comforts,<note n="l" place="margin">Pſal. 51.8, 10, 12. Rev. 2.4. Cant. 5.2, 3, 4, 5.</note> have their Hearts har<g ref="char:EOLhyphen"/>dened,<note n="m" place="margin">Iſa. 63.17. Mark 6.52. Mark 16.14.</note> and their Conſciences wounded,<note n="n" place="margin">Pſal. 37.3, 4. Pſal. 51.8.</note> hurt and ſcandalize others,<note n="o" place="margin">2 Sam. 12.14. Pſa. 89.31, 32. 1 Cor. 11.32.</note> and bring Tem<g ref="char:EOLhyphen"/>poral Judgments on themſelves. <hi>p Chap.</hi> 17. <hi>Sect.</hi> 1, 2, 3.</p>
+            </div>
+            <div n="8" type="doctrine">
+               <head>VIII. Of the Moral Law.</head>
+               <p n="1">1. THE Moral Law doth for ever bind all, as well juſtified Perſon as others, to the Obedience thereof;<note n="h" place="margin">Rom. 13.8, 9, 10. Eph. 6.2. 1 John 2.3, 4, 7, 8.</note> and that not only in regard of the matter contained in it; but al<g ref="char:EOLhyphen"/>ſo in reſpect of the Authority of God the Crea<g ref="char:EOLhyphen"/>tor who gave it,<note n="i" place="margin">Jam. 2.10, 11.</note> neither doth Chriſt in the Goſpel any way diſſolve, but much ſtrengthen this Obligation.<note n="k" place="margin">Mat. 5.17, 18, 19. Jam. 2.8. Rom. 3.31.</note>
+               </p>
+               <p n="2">2. Tho' Believers be not under the Law as a Covenant of Works, to be thereby juſtified or condemned;<note n="l" place="margin">Rom. 6.14. Gal. 2.16. Gal. 3.13. Gal. 4.4, 5. Act. 13.39. Rom. 8.1.</note> yet it is of great uſe to them, as well as to others, in that, as a Rule of Life in<g ref="char:EOLhyphen"/>forming them of the Will of God, and their Du<g ref="char:EOLhyphen"/>ty, it directs, and binds them to walk accord<g ref="char:EOLhyphen"/>ingly;<note n="m" place="margin">Rom. 7.12, 22, 25. Pſal. 119.4, 5, 6. 1 Cor. 7.19. Gal. 5.14, 16, 18, 19, 20, 21, 22, 23.</note> diſcovering alſo the ſinful Pollutions of their Nature, Hearts and Lives;<note n="n" place="margin">Rom. 7.7. Rom. 3.20.</note> ſo as ex<g ref="char:EOLhyphen"/>amining themſelves thereby, they may come to further Conviction of, Humiliation for, and Ha<g ref="char:EOLhyphen"/>tred againſt Sin;<note n="o" place="margin">Jam. 1.23, 24, 25. Rom. 7.9, 14, 24.</note> together with a clearer ſight of the need they have of Chriſt, and the Per<g ref="char:EOLhyphen"/>fection
+<pb n="15" facs="tcp:55897:9"/>of his Obedience.<note n="p" place="margin">Gal. 3.24. Rom. 7.24, 25 Rom. 8.3, 4.</note> It is likewiſe of uſe to the Re<g ref="char:EOLhyphen"/>generate, to reſtrain their Corruptions, in that it forbids Sin,<note n="q" place="margin">Jam. 2.11. Pſa. 119.101, 104, 128.</note> and the Threatnings of it ſerve to ſhew what even their Sins deſerve, and what Afflictions in this Life they may expect for them, although freed from the Curſe thereof threatned in the Law.<note n="r" place="margin">Ezra 9.13, 14. pſal 89.30, 31, 32, 33, 34.</note> The Promiſes of it in like manner ſhew them God's Approbation of Obedience, and what Bleſſings they may expect upon the performance thereof,<note n="s" place="margin">Lev. 26. to v. 14. 2 Cor. 6.16. Epheſ. 6.2, 3. Pſal. 37.11. Matth. 5.5. Pſal. 19.11.</note> although not as due to them by the Law as a Covenant of Works;<note n="t" place="margin">Gal. 2.16. Luke 17.10.</note> ſo as a man's doing good, and re<g ref="char:EOLhyphen"/>fraining from evil, becauſe the Law encourageth to the one, and deterreth from the other, is no evidence of his being under the Law, and not under Grace.<note n="u" place="margin">Rom. 6.12, 14. 1 pet. 3.8, 9, 10, 11, 12 pſal. 34.12, 13, 14, 15, 16. Heb. 12.28, 29.</note> 
+                  <hi>Chap.</hi> 19. <hi>Sect.</hi> 5, 6.</p>
+            </div>
+            <div n="9" type="doctrine">
+               <head>IX. Of Chriſtian Liberty.</head>
+               <p>THey who upon pretence of Chriſtian Liberty do pra<g ref="char:EOLhyphen"/>ctiſe any ſin, or cheriſh any luſt, do thereby deſtroy the End of Chriſtian Liberty; which is, that being deliver<g ref="char:EOLhyphen"/>ed out of the hands of our Enemies, we might ſerve the Lord without fear in Holineſs and Righteouſneſs before him all the days of our life.<note n="o" place="margin">Gal. 5.13. 1 pet. 2.16. 2 pet. 2.19. Joh. 8.34. Luk. 1.74, 75.</note> 
+                  <hi>Chap.</hi> 20. <hi>Sect.</hi> 3.</p>
+               <p>Tho' we have ſelected theſe <hi>Propoſitions,</hi> as conceiving them moſt accommodated to ſome Points at this time con<g ref="char:EOLhyphen"/>troverted: yet we profeſs to have an equal reſpect to all other the main parts of Doctrine, contained in the foremen-Articles, Confeſſion, and Catechiſms; as judging them tion'd, agreeable to the Word of God.</p>
+               <p n="3">3. That we ſhall always, through God's gracious Aſſi<g ref="char:EOLhyphen"/>ſtance in our future Miniſtry, to our uttermoſt, avoid <hi>all Ap<g ref="char:EOLhyphen"/>pearances</hi> of <hi>Oppoſition</hi> to one another, ſo as not to hinder, or prejudice; but as far as in us lies, to promote the Suc<g ref="char:EOLhyphen"/>ceſs thereof, and the common Benefit thereby.</p>
+               <pb n="16" facs="tcp:55897:10"/>
+               <p> 
+                  <hi>Decemb.</hi> 16. 1692. This day the Brethren who endea<g ref="char:EOLhyphen"/>voured to Accommodate this Controverſie, did with Mr. <hi>Williams,</hi> Mr. <hi>Chauncy,</hi> and thoſe other five Brethren, who with him objected againſt Mr. <hi>Williams</hi> his Book, ſub<g ref="char:EOLhyphen"/>ſcribe to this Agreement, and theſe Doctrinal Propoſitions.</p>
+               <list>
+                  <item>Daniel Williams.</item>
+                  <item>Iſaac Chauncy.</item>
+                  <item>Samuel Anneſley</item>
+                  <item>John How</item>
+                  <item>George Griffith</item>
+                  <item>Matthew Barker</item>
+                  <item>Vincent Alſop</item>
+                  <item>Thomas Cole</item>
+                  <item>Edward Veal</item>
+                  <item>George Hamond</item>
+                  <item>Nath. Mathers</item>
+                  <item>John James</item>
+                  <item>Richard Mayo</item>
+                  <item>Robert Trayle</item>
+                  <item>Stephen Lobb.</item>
+                  <item>Samuel Slater</item>
+                  <item>Richard Taylor.</item>
+               </list>
+            </div>
+            <div type="agreement">
+               <head>The Concurrence of the <g ref="char:V">Ʋ</g>nited Miniſters.</head>
+               <p>On <hi>Decemb.</hi> 19. 1692. This Expedient was brought to a Meeting of the <hi>
+                     <g ref="char:V">Ʋ</g>nited Miniſters,</hi> who unanimouſly ex<g ref="char:EOLhyphen"/>preſſed their Approbation in the following words; <hi>Viz.</hi>
+               </p>
+               <p>That thoſe Brethren, who at the deſire of the <hi>
+                     <g ref="char:V">Ʋ</g>nited</hi> Miniſters conſidered ſome Objections againſt Mr. <hi>Williams</hi> his Book, having brought in the above-mentioned Expe<g ref="char:EOLhyphen"/>dient for Accommodation of the Matters in Controverſie: The United Miniſters have weighed it, and approve of the ſame. Beſides, <hi>it was further declared by them,</hi> That where<g ref="char:EOLhyphen"/>as the <hi>
+                     <g ref="char:V">Ʋ</g>nited</hi> Miniſters <hi>Collectively</hi> conſidered, and <hi>as ſuch,</hi> have not been deſired to Approve of Mr. <hi>Williams</hi> his Book: In like manner, they do not by any thing in this Agreement imply an Approbation of Mr. <hi>Chauncy</hi> his Writings in this Controverſie: But yet they do rejoyce that both Mr. <hi>Wil<g ref="char:EOLhyphen"/>liams</hi> and Mr. <hi>Chauncy</hi> have accepted this offer'd Expedient.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:55897:10"/>
+            <head>Books lately Printed for <hi>Thomas Cockerill.</hi>
+            </head>
+            <p>
+               <hi>HIſtorical Collections,</hi> the Third Part, in Two Volumes, never before Printed; containing the principal Matters which happened from the Meeting of the Parliament <hi>Novemb.</hi> 3. 1640. to the end of the Year 1644. wherein is a particular Account of the Riſe and Progreſs of the Civil War to that period, Impartially Related, ſetting forth only Matter of Fact in order of Time, without Obſervation or Reflection, with Alphabetical Tables: By <hi>John Ruſhworth</hi> Eſq; late of <hi>Lincolns-Inn;</hi> fitted for the Preſs in his Life-time. <hi>London,</hi> Printed for <hi>Richard Chiſwell,</hi> and <hi>Thomas Chockerill,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard; and at the <hi>Three Leggs</hi> over againſt the <hi>Stocks-Market</hi> in the <hi>Poultrey. Folio.</hi>
+            </p>
+            <p>Heads of Agreement aſſented to by the United Miniſters.</p>
+            <p>The Senſe of the United Nonconforming Miniſters againſt ſome of Mr. <hi>Davies</hi> Erroneous Opinions.</p>
+            <p n="1">1. A Diſcourſe of <hi>Chriſtian Religion</hi> in ſundry points; <hi>viz.</hi> Chriſt the Hope of Glory. The Knowledge of God in Chriſt. Chriſt the only Saviour, the great Redeemer, the only Mediator, the Foundation of our Adoption: And, The Neceſſity of Preaching Chriſt. Preached at the <hi>Merchants</hi> Lecture, in <hi>Broadſtreet;</hi> by <hi>Thomas Cole</hi> Miniſter of the Goſpel in <hi>London. Octavo.</hi>
+            </p>
+            <p n="2">2. LOVE to Chriſt, Neceſſary for All to eſcape the Curſe at his Coming: By <hi>Thomas Doolittle. Octavo.</hi>
+            </p>
+            <p n="3">3. A ſhort Introduction into Engliſh Orthography: Or the Method of True Spelling; publiſhed for the common good, and eſpecially for the uſe of a private Grammar, and Writing-School, in <hi>Whitecroſs-ſtreet;</hi> By <hi>Rich. Mather</hi> School-Maſter. Price bound ſix pence. <hi>Twelves.</hi>
+            </p>
+            <p n="4">4. A Week of Soliloquies and Prayers, with a Preparation to the Holy Communion, and other Devotions added to this Edition, in Two Parts: By <hi>Peter Dumoulin,</hi> D.D. <hi>Twelves.</hi>
+            </p>
+            <p n="5">5. Inſtructions about <hi>Heart Work,</hi> what is to be done on God's part and ours for the Cure and Keeping of the <hi>Heart,</hi> that we may live in the exerciſe and growth of Grace, and have a comfortable Aſſurance of Glory to Eternity; by that Eminent Goſpel Miniſter, Mr. <hi>Richard Alleine,</hi> Author of <hi>Vindiciae Pietath.</hi> With a Preface by Dr. <hi>Anneſley.</hi> To which is added the Companion for Prayer; by the ſame Author. The ſecond Edition. <hi>Octavo.</hi>
+            </p>
+            <p n="6">6. The Expoſition of the Aſſemblies Catechiſm, with practical Inferences from each Queſtion. By <hi>John Flavell</hi> Preacher of the Goſpel in <hi>Dartmouth.</hi> 8<hi rend="sup">o</hi>.</p>
+            <p n="7">7. <hi>Geography Anatomized;</hi> or a Compleat Geographical Grammar, being a ſhort and Exact Analyſis of the whole Body of Modern Geography, after a new, plain, and eaſie Method, whereby any perſon may in a ſhort time attain to the Knowledge of that moſt Noble and Uſeful Science; comprehending a moſt Compendious Account of the Continents, Iſlands, Penintula's; Iſtmus, Promontories, Mountains, Oceans, Seas, Gulphs, Straits, Lakes, Rivers, and chief Towns of the whole Earth: As alſo the Diviſions, Subdiviſions, Situation, Extent, Air, Soil, Commodities, Manners, Government, Religion in all Coun<g ref="char:EOLhyphen"/>tries in the World; To which is ſubjoyned the preſented State of the European Plantations in the Eaſt and Weſt Indies, with a reaſonable Propoſal for the Pro<g ref="char:EOLhyphen"/>pagation of the Bleſſed Goſpel in all Pagan Countries, <hi>&amp;c.</hi> Illuſtrated with divers Mapps; by <hi>Pat. Gauden,</hi> M.A. <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Theſe Ten laſt, Printed for</hi> Tho. Cockerill, <hi>at the</hi> Three Leggs <hi>in the</hi> Poultrey, <hi>over againſt</hi> Stocks-Market, London.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:55897:11"/>
+            <head>Books lotely Printed for <hi>John Dunton.</hi>
+            </head>
+            <list>
+               <item>HEads of Agreement aſſented to by the United Miniſters.</item>
+               <item>The Senſe of the United Nonconforming Miniſters againſt ſome of Mr. <hi>Davies</hi> Erroneous Opinions.</item>
+               <item>Caſuiſtical Morning Exerciſes; the 4th Volume.</item>
+               <item>The Life of the Reverend Mr. <hi>Thomas Brand;</hi> by Dr. <hi>Anneſley.</hi>
+               </item>
+               <item>The Vanity of Childhood and Youth; by <hi>Daniel Williams.</hi>
+               </item>
+               <item>The Late Tryals of ſeveral Witches; publiſhed by <hi>Cotton Mather.</hi>
+               </item>
+               <item>The Fourth Edition of the <hi>Bloody Aſſizes,</hi> with large Additions.</item>
+               <item>The Countreys Concurrence with the <hi>London</hi> Miniſters; by <hi>S. Chandler.</hi>
+               </item>
+               <item>The <hi>Mourners Companion;</hi> by <hi>J. Shower.</hi>
+               </item>
+               <item>A practical Diſcourſe on <hi>Sickneſs</hi> and <hi>Recovery.</hi>
+               </item>
+               <item>Early Religion; or a Diſcourſe of the <hi>Duty of Youth.</hi>
+               </item>
+               <item>
+                  <hi>Fall not out by the Way;</hi> or a Perſwaſion to a Friendly Correſpondence be<g ref="char:EOLhyphen"/>tween Brethren of the ſame Faith. All three by <hi>T. Rogers,</hi> M. A.</item>
+               <item>The Life and Death of the Reverend Mr. <hi>Eliot;</hi> by <hi>Cotton Mather.</hi>
+               </item>
+               <item>Mr. <hi>Barkers Flores Intellectuales;</hi> both parts.</item>
+               <item>Mr. <hi>Increaſe Mathers</hi> Sermon to a Condemned Malefactor.</item>
+               <item>Mr. <hi>Quicks Young Man's Claim to the Sacrament.</hi>
+               </item>
+               <item>A practical Diſcourſe on the Late Earthquakes.</item>
+               <item>Mr. <hi>Crow's Vanity of Judicial Aſtrology.</hi>
+               </item>
+               <item>Mr. <hi>Oakes</hi> Funeral Sermon.</item>
+               <item>Mr. <hi>Kent</hi>'s Funeral Sermon; both by Mr. <hi>Slater.</hi>
+               </item>
+               <item>Mr. <hi>Barlows</hi> Penitentiary Sermon.</item>
+               <item>The <hi>Coeleſtial Race;</hi> by Mr. <hi>Buſh.</hi>
+               </item>
+               <item>Mr. <hi>Buſh</hi>'s Sermon on a perſon that died ſuddenly.</item>
+               <item>
+                  <hi>The Firſt Volume of the Compleat Library,</hi> with two Alphabetical Tables.</item>
+               <item>The Entire Sett of the <hi>Athenian Gazetts</hi> for the Year 1691. or ſingle Mer<g ref="char:EOLhyphen"/>curies to this time.</item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Books now in the Preſs, and going to it, Printed for <hi>John Dunton.</hi>
+            </head>
+            <p n="1">1. <hi>AN Earneſt Call to Family Catechiſing and Reformation;</hi> by a Reverend Divine Several Miniſters and private Chriſtians peruſing this Piece, earneſtly moved for its publication, which the Reverend Author at length conſent<g ref="char:EOLhyphen"/>ing to, the following <hi>PROPOSAL,</hi> is now made for the more general diſperſing of it; <hi>viz.</hi> That whatever Gentlemen will be ſo publick ſpirited, as to give Fifty of 'em away, they ſhall have that number delivered to 'em for Twenty Shillings ſtitcht up in Blew Paper, and ready Cut; but as for others who buy leſſer numbers, they muſt not expect 'em under Six pence <hi>per Book.</hi>
+            </p>
+            <p n="2">2. <hi>The Day of Jubilee;</hi> or a plain and practical Diſcourſe of the Saints <hi>Ga<g ref="char:EOLhyphen"/>thering</hi> together, and of their Meeting the Lord of Glory at his ſecond Coming, on 1 <hi>Theſ.</hi> 4.17. By <hi>John Brandon,</hi> Rector of <hi>Finchamſted</hi> in <hi>Berks.</hi>
+            </p>
+            <p n="3">3. <hi>William Leibourn</hi> Author of the late <hi>Curſus Mathematicus,</hi> and of divers other Mathematical Tractates, hath now by him a <hi>Miſſellaneous Manuſcript</hi> rea<g ref="char:EOLhyphen"/>dy for the Preſs, publiſhed for ingenious ſpirits, to make further ſcrutiny into many ſublime Sciences, <hi>&amp;c.</hi> This Book, when Printed of a good Letter, will contain above <hi>One hundred Sheets,</hi> with near <hi>Two hundred Cutts.</hi> And to the end this <hi>Curious and Uſeful Work</hi> may be publiſhed in the <hi>Authors Life-time,</hi> he deſigns ſpeedily to Print <hi>PROPOSALS</hi> about it, which will be had of the Un<g ref="char:EOLhyphen"/>takers; <hi>Dorman Nowman, Richard Baldwin,</hi> and <hi>John Dunton.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
